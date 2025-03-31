@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sqoojack/Documents/博涵公司/交大/暑修/計算機組織/作業/lab1",
+      "program": "/Users/sqoojack/Documents/博涵公司/交大/暑修/計算機組織/作業/lab1/build/Debug/outDebug"
+    }
+  ]
+}
